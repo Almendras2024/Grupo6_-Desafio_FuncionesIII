@@ -1,5 +1,8 @@
 # menu
 def mostrar_menu():
+    """
+    Muestra las opciones para escoger los ingredientes de la pizza.
+    """
     print("Bienvenido a Pizza JAT")
     print("1. Elegir tipo de masa")
     print("2. Elegir tipo de salsa")
